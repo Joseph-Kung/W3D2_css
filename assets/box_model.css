@@ -4,6 +4,8 @@ body {
   /* If the user cannot load the Arial font, the sans-serif font is used */
   font-family: Arial, sans-serif;
   background-color: #FEFFF1;
+  margin: 0 auto;
+  width: 900px;
 }
 
 h1 {
@@ -82,4 +84,12 @@ ul li a {
 
 nav {
   display: inline-block;
+}
+
+section {
+  width: 700px;
+}
+
+aside {
+  width: 180px;
 }
